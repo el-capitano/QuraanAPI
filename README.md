@@ -11,3 +11,11 @@ Example include:
 You can use similar approach to fetch the rest of the APIs included in Al Quraan Cloud network
 
 
+NuGet Libraries used:
+
+
+1-RestSharp
+
+2-NewtonSoft JSON
+
+
