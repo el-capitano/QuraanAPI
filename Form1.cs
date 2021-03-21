@@ -10,6 +10,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/* Project is developed for the sake of Allah for all humanity */
+
 namespace QuraanAPI
 {
     public partial class Form1 : Form
@@ -24,6 +26,7 @@ namespace QuraanAPI
 
         }
 
+        // This function will get all suras info
         private void getSurasInfo(string url,string requestParam)
         {
             try
@@ -37,6 +40,7 @@ namespace QuraanAPI
                 {
                     string rawResponse = response.Content;
                     var QuraanSura = JsonConvert.DeserializeObject<Suras>(rawResponse);
+
                     // In case you want to load the data in listview instead of datagrid view
                   /*  foreach (var item in QuraanSura.data)
                     {
@@ -56,7 +60,7 @@ namespace QuraanAPI
                 MessageBox.Show(e.Message);
             }
         }
-
+        // This funcrion will get the Sura details
         private void getSingleSura(string url, int requestParam)
         {
              try
@@ -94,7 +98,7 @@ namespace QuraanAPI
         }
 
         private void btnFetchAPI_Click(object sender, EventArgs e)
-        {
+        { 
             getSurasInfo("http://api.alquran.cloud/v1","surah");
         }
 
