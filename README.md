@@ -7,8 +7,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]  
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 [![Product Name Screen Shot][product-screenshot]
+
 <p>Example shows you how to Fetch Quraan API using C# from Al Quraan Cloud https://alquran.cloud/api</p>
 <p><strong>Example include:</strong></p>
 <ol>
