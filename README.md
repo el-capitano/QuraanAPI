@@ -1,14 +1,13 @@
 # QuraanAPI
-<p align='center'>بِسْمِ ٱللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
-</p>
+<p align='center'><strong>بِسْمِ ٱللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+  </strong></p>
 Example shows you how to Fetch Quraan API using C# from Al Quraan Cloud https://alquran.cloud/api
-
-Example include:
-
-
-1- Fetch All Suras info into DataGridView
-
-2- Fetch Single Sura info details into DataGridView
+<strong><ul>Example include:<ul></strong>
+<br>
+<ol>
+  <li>Fetch All Suras info into DataGridView</li>
+  <li>Fetch Single Sura info details into DataGridView</li>
+</ol>
 
 You can use similar approach to fetch the rest of the APIs included in Al Quraan Cloud network
 
