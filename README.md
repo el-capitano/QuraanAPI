@@ -1,4 +1,6 @@
 # QuraanAPI
+<p align='center'>بِسْمِ ٱللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+</p>
 Example shows you how to Fetch Quraan API using C# from Al Quraan Cloud https://alquran.cloud/api
 
 Example include:
