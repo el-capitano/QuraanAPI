@@ -1,6 +1,13 @@
 # QuraanAPI C# API Client
 <p align='center'><strong>بِسْمِ ٱللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
   </strong></p>
+  
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]  
 <p>Example shows you how to Fetch Quraan API using C# from Al Quraan Cloud https://alquran.cloud/api</p>
 <p><strong>Example include:</strong></p>
 <ol>
