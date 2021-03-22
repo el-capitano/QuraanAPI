@@ -11,7 +11,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](#)
 
-<p>Example shows you how to Fetch Quraan API using C# from Al Quraan Cloud https://alquran.cloud/api</p>
+<p>Example shows you how to fetch data using Quraan API with C# from Al Quraan Cloud https://alquran.cloud/api</p>
 <p><strong>Example include:</strong></p>
 <ol>
   <li>Fetch All Suras info into DataGridView</li>
