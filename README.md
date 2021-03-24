@@ -20,6 +20,7 @@
 <p>
 You can use similar approach to fetch the rest of the APIs included in Al Quraan Cloud network</p>
 
+<p><strong> PLEASE STAR IF YOU FIND IT USEFUL </strong></p>
 
 <p><strong>NuGet Libraries used:</strong>
 
